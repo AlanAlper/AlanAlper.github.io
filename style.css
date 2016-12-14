@@ -7,14 +7,12 @@
 		
 		#header
 		{
-			background-color: black;
+		background-color: black;
 		max-height: 105px;
 		height:100%;
-		max-width: 1600px;
+		max-width: auto;
 		width: 100%;
-		margin: center;
-		padding-top: 0;
-		
+		margin: center;		
 		}
 		img{
 		max-width: 100%;
