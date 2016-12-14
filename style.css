@@ -20,6 +20,7 @@
 		float: center;
 		margin: center;
 		text-align: center;
+		display: block;
 		margin-left: auto;
 		margin-right: auto;
 		}
@@ -56,7 +57,7 @@
 		.page
 		{
 		font-family: AR CENA;
-		 text-align: center;
+		text-align: center;
 		background-color: #ebebeb;
 		padding: 20px;
 		padding-bottom: 20px;
