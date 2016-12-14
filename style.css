@@ -1,16 +1,16 @@
 *( margin: 0; padding: 0;)
 			
 		body {
-		font-family: "AR CENA";
+		font-family: "Times New Roman";
 		background-color: green;
 		}
 		
 		#header
 		{
 		background-color: black;
+		
 		height: 100px;
 		width: 100%;
-		max-width: 100%;
 		margin: center;
 		
 		}
@@ -24,7 +24,7 @@
 		
 		#logoArea
 		{
-		width: 623px;
+		width: auto;
 		height: 100px;
 		float: center;
 		margin: auto;
