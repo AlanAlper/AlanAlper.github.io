@@ -26,7 +26,8 @@
 		
 		#logoArea
 		{
-		width: auto;
+		max-width: 1037px;
+		width: 100%;
 		height: 100px;
 		float: center;
 		margin: auto;
