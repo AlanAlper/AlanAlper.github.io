@@ -7,7 +7,7 @@
 		
 		#header
 		{
-		background-image: url(logo.png);
+		background-color: black;
 		height: 100px;
 		width: 100%;
 		}
@@ -21,7 +21,7 @@
 		
 		#logoArea
 		{
-		width: auto;
+		width: 1037px;
 		height: 100px;
 		float: center;
 		margin: auto;
