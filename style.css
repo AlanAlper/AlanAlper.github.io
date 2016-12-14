@@ -2,7 +2,7 @@
 			
 		body {
 		font-family: "AR CENA";
-		background-color: gray;
+		background-color: green;
 			}
 		
 		#header
@@ -21,10 +21,10 @@
 		
 		#logoArea
 		{
-		width: 413px;
+		width: 619px;
 		height: 100px;
 		background-image: url(logo.png);
-		float: left;
+		float: center;
 		}
 		
 		#navArea
