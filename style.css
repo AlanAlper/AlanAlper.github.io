@@ -1,8 +1,8 @@
 *( margin: 0; padding: 0;)
 			
 		body {
-		font-family: "Times New Roman";
-		background-color: green;
+		font-family: AR CENA;
+		background-color: #ebebeb;
 		}
 		
 		#header
@@ -66,7 +66,7 @@
 		
 		.page
 		{
-		background-color: white;
+		background-color: #ebebeb;
 		padding: 20px;
 		padding-bottom: 0;
 		height: auto;
