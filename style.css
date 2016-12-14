@@ -1,6 +1,7 @@
 *( margin: 0; padding: 0;)
 			
-		body {
+		body 
+		{
 		font-family: AR CENA;
 		background-color: #ebebeb;
 		}
@@ -14,7 +15,9 @@
 		width: 100%;
 		margin: center;		
 		}
-		img{
+		
+		img
+		{
 		max-width: 100%;
 		height: auto;
 		float: center;
@@ -43,7 +46,8 @@
 		margin: auto;
 		}
 		
-		img {
+		img
+		{
 		max-width: 100%;
 		height: auto;
 		margin-top: 5px;
@@ -53,7 +57,6 @@
 		float: center;
 		}
 	
-		
 		.page
 		{
 		font-family: AR CENA;
@@ -73,13 +76,12 @@
 		width: 100%;
 		color: white;
 		padding-top: 20px;
-				 text-align: center;
-
+		text-align: center;
+		font-family: Georgia;
 		}
 		
 		p
 		{
 		margin-bottom: 30px;
-				 text-align: center;
-
+		text-align: center;
 		}
